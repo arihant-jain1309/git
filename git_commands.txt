@@ -4,6 +4,34 @@
     8  touch testing.py
     9  vi testing.py
    10  git status
+22  git commit -m "hello" testing.py
+   23  git status
+   24  rm testing.py
+   25  ls
+   26  git status
+   27  ls
+   28  git status
+   29  git restore testing.py
+   30  ls
+   31  git status
+   32  git git_commands.txt
+   33  touch git_commands.txt
+   34  ls
+   35  history
+22  git commit -m "hello" testing.py
+   23  git status
+   24  rm testing.py
+   25  ls
+   26  git status
+   27  ls
+   28  git status
+   29  git restore testing.py
+   30  ls
+   31  git status
+   32  git git_commands.txt
+   33  touch git_commands.txt
+   34  ls
+   35  history
    11  ls
    12  git add testing.py
    13  git status
