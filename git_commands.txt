@@ -1,0 +1,32 @@
+    5  git init
+    6  la -a
+    7  ls -a
+    8  touch testing.py
+    9  vi testing.py
+   10  git status
+   11  ls
+   12  git add testing.py
+   13  git status
+   14  git rm -- chached testing.py
+   15  git rm -- cached testing.py
+   16  gir rm --cached testing.py
+   17  git rm --cached testing.py
+   18  git status
+   19  git add testing.py
+   20  gir status
+   21  git status
+   22  git commit -m "hello" testing.py
+   23  git status
+   24  rm testing.py
+   25  ls
+   26  git status
+   27  ls
+   28  git status
+   29  git restore testing.py
+   30  ls
+   31  git status
+   32  git git_commands.txt
+   33  touch git_commands.txt
+   34  ls
+   35  history
+
